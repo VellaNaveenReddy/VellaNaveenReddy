@@ -3,16 +3,14 @@
 </p>
 
 <div align="center">
-  
+
 # 👋 Hi, I'm Naveen Reddy
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;SQL+Developer;+Learner;Future+Software+Engineer;Always+Learning+New+Things" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;SQL+Developer;Problem+Solver;Future+Software+Engineer;Always+Learning+New+Things" />
 
 ### 💻 Java Full Stack Developer | SQL Enthusiast | Problem Solver
 
-<img src="https://komarev.com/ghpvc/?username=VellaNaveenReddy&label=Profile%20Views&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=VellaNaveenReddy&style=for-the-badge&label=Profile+Views"/>
 
 <img src="https://img.shields.io/github/followers/VellaNaveenReddy?style=for-the-badge&logo=github"/>
 
@@ -32,64 +30,38 @@ public class NaveenReddy {
     String location = "India";
 
     String[] skills = {
-
         "Java",
-
-        "SQL",
-
-        "MySQL",
-
         "HTML",
-
         "CSS",
-
         "JavaScript",
-
+        "SQL",
+        "MySQL",
         "Git",
-
-        "GitHub"
-
+        "GitHub",
+        "VS Code",
+        "Eclipse"
     };
 
     String[] learning = {
-
         "Advanced Java",
-
-        "REST APIs",
-
         "Data Structures",
-
-        "Algorithms"
-
+        "Algorithms",
+        "SQL Optimization"
     };
 
     String goal = "Become a Software Engineer";
-
 }
 ```
 
----
-
-# 🌟 About Me
-
-- 💻 Passionate Java Full Stack Developer
-- 🌱 Currently learning DSA & REST APIs
-- 📚 Practicing Data Structures & Algorithms
-- 🚀 Interested in Backend Development
-- 🤝 Love learning new technologies
-- 🎯 Goal: Crack a Software Engineer role
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/VellaNaveenReddy" target="_blank">
+<a href="https://github.com/VellaNaveenReddy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vella-naveen-reddy-544a4028b/" target="_blank">
+<a href="https://www.linkedin.com/in/vella-naveen-reddy-544a4028b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -103,136 +75,92 @@ public class NaveenReddy {
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse"/>
 
 </p>
 
 ---
-
-## ⚙ Frameworks & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,git,github,vscode,eclipse"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-✅ REST APIs
-
-✅ Advanced Java
-
-✅ SQL Optimization
-
-✅ Data Structures & Algorithms
-
----
-```markdown
 # 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=VellaNaveenReddy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VellaNaveenReddy&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=VellaNaveenReddy&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VellaNaveenReddy&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VellaNaveenReddy&theme=tokyo-night"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VellaNaveenReddy&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VellaNaveenReddy&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 
-</div>
-
----
-
-# 💼  Projects
-
-<div align="center">
-
-<a href="https://github.com/VellaNaveenReddy/Portfolio">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VellaNaveenReddy&repo=RepositoryName1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/VellaNaveenReddy/Calculator">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VellaNaveenReddy&repo=RepositoryName2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/VellaNaveenReddy/Employee-Management-System">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VellaNaveenReddy&repo=RepositoryName3&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/VellaNaveenReddy/KodNest-Times">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VellaNaveenReddy&repo=RepositoryName4&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Goals
 
-- 💻 Build 10+ Java Full Stack Projects
-- 📚 Solve 500+ DSA Problems
-- ☁ Learn Deployment
+- 🌱 Master Advanced Java
+- 💻 Build Java Full Stack Projects
+- 📚 Improve DSA Skills
+- 🗄️ Learn SQL Optimization
 - 🚀 Become a Software Engineer
-- 🤝 Contribute to Open Source
 
 ---
 
-# 📜 Certifications (Coming Soon)
+# 💼 Featured Projects
 
-- ☕ Java Programming
-- 🗄 SQL & MySQL
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Personal portfolio built with HTML & CSS |
+| 📰 KodNest Times | News webpage using Semantic HTML & CSS |
+| 💼 Employee Management System | Java + JDBC + MySQL |
+| 🧮 Calculator | HTML, CSS & JavaScript |
+
+---
+
+# 📚 Currently Learning
+
+- ☕ Advanced Java
+- 🗄️ SQL & MySQL
 - 🌐 Full Stack Development
+- 📖 Data Structures & Algorithms
+- 🔗 Git & GitHub
 
 ---
-```
-````markdown
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/VellaNaveenReddy/VellaNaveenReddy/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/VellaNaveenReddy/VellaNaveenReddy/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
-</div>
+</p>
 
 ---
 
@@ -253,7 +181,7 @@ public class Success {
 
     public static void main(String[] args) {
 
-        while (!success) {
+        while(!success){
 
             learn();
 
@@ -262,8 +190,11 @@ public class Success {
             improve();
 
             neverGiveUp();
+
         }
+
     }
+
 }
 ```
 
@@ -271,73 +202,53 @@ public class Success {
 
 # 🌍 Open To
 
-- 💼 Software Engineer Opportunities
-- 🌱 Internship Opportunities
+- 💼 Software Engineer Roles
+- 🎓 Internship Opportunities
 - 🤝 Open Source Contributions
 - 🚀 Java Full Stack Projects
-- 💡 Learning New Technologies
+- 📚 Learning New Technologies
 
 ---
 
-# 📅 2026 Roadmap
+# 📊 Profile Summary
 
-✅ Java
-
-✅ SQL & MySQL
-
-✅ HTML & CSS
-
-✅ JavaScript
-
-🔄 Spring Boot
-
-🔄 REST APIs
-
-🔄 React
-
-🎯 Full Stack Developer
+| Skill | Level |
+|-------|-------|
+| ☕ Java | ⭐⭐⭐⭐⭐ |
+| 🗄️ SQL | ⭐⭐⭐⭐☆ |
+| 🌐 HTML | ⭐⭐⭐⭐⭐ |
+| 🎨 CSS | ⭐⭐⭐⭐☆ |
+| ⚡ JavaScript | ⭐⭐⭐⭐☆ |
+| 🔧 Git & GitHub | ⭐⭐⭐⭐☆ |
 
 ---
 
-# 🎯 Fun Facts
+# 📫 Contact Me
 
-- ☕ Coffee + Code = Happiness
-- 💻 I enjoy solving programming problems.
-- 📚 I believe learning never stops.
-- 🚀 Every day is an opportunity to improve.
+<p align="center">
 
----
+<a href="mailto:vellanaveenreddy621@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-# 📈 Profile Summary
+<a href="https://www.linkedin.com/in/vella-naveen-reddy-544a4028b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center">
+<a href="https://github.com/VellaNaveenReddy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-| 💻 Skill | ⭐ Level |
-|----------|----------|
-| Java | ⭐⭐⭐⭐⭐ |
-| SQL | ⭐⭐⭐⭐☆ |
-| HTML | ⭐⭐⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐☆ |
-| JavaScript | ⭐⭐⭐⭐☆ |
-| Git & GitHub | ⭐⭐⭐⭐☆ |
-
-</div>
-
----
-
-# ❤️ Support
-
-If you like my work, consider giving a ⭐ to my repositories.
+</p>
 
 ---
 
 <div align="center">
 
-## 🌟 Thanks for Visiting My GitHub Profile!
+# ⭐ Thanks for Visiting My Profile!
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Happy+Coding!;Keep+Learning!;Keep+Building!;See+You+Again!+👋"/>
 
-### 🚀 Let's Build Something Amazing Together!
+### 🚀 Let's Connect and Build Amazing Projects Together!
 
 </div>
-````
