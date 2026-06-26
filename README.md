@@ -21,12 +21,11 @@ public class NaveenReddy{
     String location = "India";
 
     String[] skills = {
-        "Java","Spring Boot","SQL","MySQL",
+        "Java","SQL","MySQL",
         "HTML","CSS","JavaScript","Git","GitHub"
     };
 
     String[] learning = {
-        "Spring Boot",
         "Advanced Java",
         "REST APIs",
         "Data Structures & Algorithms"
@@ -35,26 +34,6 @@ public class NaveenReddy{
     String goal = "Become a Software Engineer";
 }
 ```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/VellaNaveenReddy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vella-naveen-reddy-544a4028b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vellanaveenreddy621@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
@@ -68,7 +47,6 @@ public class NaveenReddy{
 
 # 📚 Currently Learning
 
-- 🌱 Spring Boot
 - 🌱 Advanced Java
 - 🌱 SQL Optimization
 - 🌱 DSA
@@ -146,6 +124,24 @@ while(!success){
 ---
 
 <div align="center">
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/VellaNaveenReddy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vella-naveen-reddy-544a4028b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vellanaveenreddy621@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 
 ## ⭐ Thanks for visiting my profile!
 
