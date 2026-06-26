@@ -1,41 +1,343 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipayan Sarkar
-======================================================================================================================================
-<h4>Java Full-Stack developer </h4>
+<p align="center">
+  <img src="banner.png.png" width="100%" alt="Naveen Reddy Banner">
+</p>
 
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Finance
-- 📫 How to reach me: dipayansarkar265482@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+<div align="center">
+  
+# 👋 Hi, I'm Naveen Reddy
 
-<a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;SQL+Developer;+Learner;Future+Software+Engineer;Always+Learning+New+Things" />
 
-<p align="left"> <a href="https://twitter.com/codewithbiki" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbiki?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a> </p>
+<br>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
+### 💻 Java Full Stack Developer | SQL Enthusiast | Problem Solver
 
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=VellaNaveenReddy&label=Profile%20Views&style=for-the-badge&color=blueviolet"/>
 
+<img src="https://img.shields.io/github/followers/VellaNaveenReddy?style=for-the-badge&logo=github"/>
 
-# Badges 
+<img src="https://img.shields.io/github/stars/VellaNaveenReddy?style=for-the-badge"/>
 
-[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipayansarkar47)](https://holopin.io/@dipayansarkar47)
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
+# 🚀 About Me
 
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipayansarkar47&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+```java
+public class NaveenReddy {
 
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dipayansarkar47&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+    String role = "Java Full Stack Developer";
 
-<a href="https://github.com/dipayansarkar47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayansarkar47&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    String location = "India";
 
-<b>Top Repositories</b>
+    String[] skills = {
 
-<div width="100%" align="center"><a href="https://github.com/dipayansarkar47/Dipayan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dipayansarkar47/Sandesh" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+        "Java",
+
+        "SQL",
+
+        "MySQL",
+
+        "HTML",
+
+        "CSS",
+
+        "JavaScript",
+
+        "Git",
+
+        "GitHub"
+
+    };
+
+    String[] learning = {
+
+        "Advanced Java",
+
+        "REST APIs",
+
+        "Data Structures",
+
+        "Algorithms"
+
+    };
+
+    String goal = "Become a Software Engineer";
+
+}
+```
+
+---
+
+# 🌟 About Me
+
+- 💻 Passionate Java Full Stack Developer
+- 🌱 Currently learning DSA & REST APIs
+- 📚 Practicing Data Structures & Algorithms
+- 🚀 Interested in Backend Development
+- 🤝 Love learning new technologies
+- 🎯 Goal: Crack a Software Engineer role
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/VellaNaveenReddy" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vella-naveen-reddy-544a4028b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vellanaveenreddy621@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql"/>
+
+</p>
+
+---
+
+## ⚙ Frameworks & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,git,github,vscode,eclipse"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+✅ REST APIs
+
+✅ Advanced Java
+
+✅ SQL Optimization
+
+✅ Data Structures & Algorithms
+
+---
+```markdown
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VellaNaveenReddy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VellaNaveenReddy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VellaNaveenReddy&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VellaNaveenReddy&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VellaNaveenReddy&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 💼  Projects
+
+<div align="center">
+
+<a href="https://github.com/VellaNaveenReddy/Portfolio">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VellaNaveenReddy&repo=RepositoryName1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/VellaNaveenReddy/Calculator">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VellaNaveenReddy&repo=RepositoryName2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/VellaNaveenReddy/Employee-Management-System">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VellaNaveenReddy&repo=RepositoryName3&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/VellaNaveenReddy/KodNest-Times">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VellaNaveenReddy&repo=RepositoryName4&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 💻 Build 10+ Java Full Stack Projects
+- 📚 Solve 500+ DSA Problems
+- ☁ Learn Deployment
+- 🚀 Become a Software Engineer
+- 🤝 Contribute to Open Source
+
+---
+
+# 📜 Certifications (Coming Soon)
+
+- ☕ Java Programming
+- 🗄 SQL & MySQL
+- 🌐 Full Stack Development
+
+---
+```
+````markdown
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VellaNaveenReddy/VellaNaveenReddy/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
+# 💡 Quote of the Day
+
+<div align="center">
+
+> **"Code. Learn. Build. Repeat."** 🚀
+
+</div>
+
+---
+
+# ☕
+
+```java
+public class Success {
+
+    public static void main(String[] args) {
+
+        while (!success) {
+
+            learn();
+
+            practice();
+
+            improve();
+
+            neverGiveUp();
+        }
+    }
+}
+```
+
+---
+
+# 🌍 Open To
+
+- 💼 Software Engineer Opportunities
+- 🌱 Internship Opportunities
+- 🤝 Open Source Contributions
+- 🚀 Java Full Stack Projects
+- 💡 Learning New Technologies
+
+---
+
+# 📅 2026 Roadmap
+
+✅ Java
+
+✅ SQL & MySQL
+
+✅ HTML & CSS
+
+✅ JavaScript
+
+🔄 Spring Boot
+
+🔄 REST APIs
+
+🔄 React
+
+🎯 Full Stack Developer
+
+---
+
+# 🎯 Fun Facts
+
+- ☕ Coffee + Code = Happiness
+- 💻 I enjoy solving programming problems.
+- 📚 I believe learning never stops.
+- 🚀 Every day is an opportunity to improve.
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+| 💻 Skill | ⭐ Level |
+|----------|----------|
+| Java | ⭐⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐☆ |
+| HTML | ⭐⭐⭐⭐⭐ |
+| CSS | ⭐⭐⭐⭐☆ |
+| JavaScript | ⭐⭐⭐⭐☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# ❤️ Support
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+---
+
+<div align="center">
+
+## 🌟 Thanks for Visiting My GitHub Profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Happy+Coding!;Keep+Learning!;Keep+Building!;See+You+Again!+👋"/>
+
+### 🚀 Let's Build Something Amazing Together!
+
+</div>
+````
