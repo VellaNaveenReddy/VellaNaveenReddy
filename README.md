@@ -10,6 +10,11 @@
 
 ### 💻 Java Full Stack Developer | SQL Enthusiast | Problem Solver
 
+Passionate Java Full Stack Developer from India 🇮🇳
+
+Building real-world projects while continuously improving my problem-solving and software development skills.
+
+
 <img src="https://komarev.com/ghpvc/?username=VellaNaveenReddy&style=for-the-badge&label=Profile+Views"/>
 
 <img src="https://img.shields.io/github/followers/VellaNaveenReddy?style=for-the-badge&logo=github"/>
@@ -26,32 +31,21 @@
 public class NaveenReddy {
 
     String role = "Java Full Stack Developer";
-
     String location = "India";
 
-    String[] skills = {
+    List<String> skills = Arrays.asList(
         "Java",
+        "SQL",
         "HTML",
         "CSS",
         "JavaScript",
-        "SQL",
-        "MySQL",
         "Git",
-        "GitHub",
-        "VS Code",
-        "Eclipse"
-    };
+        "GitHub"
+    );
 
-    String[] learning = {
-        "Advanced Java",
-        "Data Structures",
-        "Algorithms",
-        "SQL Optimization"
-    };
+    String goal = "Software Engineer";
 
-    String goal = "Become a Software Engineer";
 }
-```
 
 ## 🌐 Connect With Me
 
@@ -207,39 +201,6 @@ public class Success {
 - 🤝 Open Source Contributions
 - 🚀 Java Full Stack Projects
 - 📚 Learning New Technologies
-
----
-
-# 📊 Profile Summary
-
-| Skill | Level |
-|-------|-------|
-| ☕ Java | ⭐⭐⭐⭐⭐ |
-| 🗄️ SQL | ⭐⭐⭐⭐☆ |
-| 🌐 HTML | ⭐⭐⭐⭐⭐ |
-| 🎨 CSS | ⭐⭐⭐⭐☆ |
-| ⚡ JavaScript | ⭐⭐⭐⭐☆ |
-| 🔧 Git & GitHub | ⭐⭐⭐⭐☆ |
-
----
-
-# 📫 Contact Me
-
-<p align="center">
-
-<a href="mailto:vellanaveenreddy621@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vella-naveen-reddy-544a4028b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/VellaNaveenReddy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
