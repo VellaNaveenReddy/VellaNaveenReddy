@@ -5,7 +5,7 @@
 <h3 align="center">Java Full Stack Developer | Software Development Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VellaNaveenReddy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Java+%7C+SQL+%7C+JavaScript;Always+Learning+New+Technologies" />
 </p>
 
 ---
