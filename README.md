@@ -40,7 +40,7 @@ public class NaveenReddy{
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,vscode,eclipse"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse"/>
 </p>
 
 ---
