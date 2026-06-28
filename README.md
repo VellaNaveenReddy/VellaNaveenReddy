@@ -108,7 +108,7 @@ Full Stack Java Developer | Java Enthusiast | Problem Solver
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 | Project | Description |
 |----------|-------------|
