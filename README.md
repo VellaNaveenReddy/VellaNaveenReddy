@@ -1,52 +1,67 @@
-```markdown
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Naveen%20Reddy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Naveen Reddy</h1>
 
 <h3 align="center">
-💻 Java Full Stack Developer | 🚀 Passionate Learner | 🌱 Future Software Engineer
+Full Stack Java Developer | Java Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Full+Stack+Java+Developer;Java+%7C+SQL+%7C+HTML+%7C+CSS+%7C+JavaScript;Always+Learning+Something+New!" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Learning **Advanced Java & Full Stack Development**
+- 💻 Passionate about Web Development
+- 📚 Solving Java & SQL problems
+- 🎯 Goal: Become a Software Engineer
+- ⚡ Love Building Real-Time Projects
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vella-naveen-reddy-544a4028b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:vellanaveenreddy621@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 <a href="https://github.com/VellaNaveenReddy">
-<img src="https://img.shields.io/github/followers/VellaNaveenReddy?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 Tech Stack
 
-- 🎓 Full Stack Development Student
-- 💻 Passionate Java Developer
-- 🌱 Currently learning Spring Boot & DSA
-- 🛠 Building Real-World Projects
-- 🎯 Goal: Software Engineer
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java"/>
 
-# 🚀 Tech Stack
+<img src="https://skillicons.dev/icons?i=html"/>
 
-### Languages
+<img src="https://skillicons.dev/icons?i=css"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=eclipse"/>
+
 </p>
 
 ---
@@ -55,15 +70,19 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VellaNaveenReddy&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VellaNaveenReddy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VellaNaveenReddy&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VellaNaveenReddy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VellaNaveenReddy&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=VellaNaveenReddy&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -73,7 +92,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VellaNaveenReddy&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VellaNaveenReddy&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -83,7 +102,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VellaNaveenReddy&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VellaNaveenReddy&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -91,29 +110,29 @@
 
 # 🚀 Featured Projects
 
-⭐ Portfolio Website
-
-⭐ Student Management System
-
-⭐ Java DSA Programs
-
-⭐ SQL Practice
-
-⭐ Weather App
-
-⭐ Spring Boot CRUD
+| Project | Description |
+|----------|-------------|
+| 🎓 Student Management System | Java, JDBC, MySQL CRUD Project |
+| 🌐 Portfolio Website | HTML, CSS & JavaScript Personal Portfolio |
+| ☕ Student Management System | Java Console Based Project |
 
 ---
 
-# 📫 Connect With Me
+# 💡 Quote
 
-<p>
+<p align="center">
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-📧 Email: YOUR_EMAIL
+</p>
 
-🌐 GitHub: https://github.com/VellaNaveenReddy
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VellaNaveenReddy&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
@@ -121,7 +140,6 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+### ⭐ Thanks for visiting my profile! ⭐
 
 </p>
-```
